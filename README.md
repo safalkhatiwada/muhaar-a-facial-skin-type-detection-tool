@@ -1,2 +1,2 @@
-# muhaar-a-facial-skin-type-detection-tool
+# facial-skin-type-recognition
 This is my Minor Project 
